@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor.io](https://your-solution-url.com)
-- Live Site URL: [fsuropaty.github.io](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/profile-card-component-eBG7O-V96u)
+- Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/faq-accordion-card-challenge/)
 
 ## My process
 
@@ -96,7 +96,13 @@ input:checked + label::after {
 
 ### Continued development
 
-I wonder if i can make the same styling works with <details> and <summary> elements
+I wonder if i can make the same styling works with this elements
+
+```html
+<details>
+  <summary></summary>
+</details>
+```
 
 ### Useful resources
 
